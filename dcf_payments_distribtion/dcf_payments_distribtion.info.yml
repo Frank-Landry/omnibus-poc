@@ -1,0 +1,5 @@
+name: 'dcf_payments_distribtion'
+type: module
+description: 'Facilitates payments distribution'
+package: Custom
+core_version_requirement: ^10 || ^11
